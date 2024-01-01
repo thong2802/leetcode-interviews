@@ -40,8 +40,8 @@ public class _1295FindNumberswithEvenNumberofDigits {
  * - Output: 2
  * - Explanation:
  * + 12 contains 2 digits (event number of digits)
- * + 345 contains 3 digits (old number of digits)
- * + 2 contains 1 digit (old number of digits)
- * + 6 contains 1 digit (old number of digits)
+ * + 345 contains 3 digits (odd number of digits)
+ * + 2 contains 1 digit (odd number of digits)
+ * + 6 contains 1 digit (odd number of digits)
  * + 7896 contains 2 digits (event number of digits)
  */
